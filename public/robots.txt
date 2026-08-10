@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://svargasanctuary.com
+
+# Sitemaps
+Sitemap: https://svargasanctuary.com/sitemap.xml

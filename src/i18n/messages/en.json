@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "switchLanguage": "Switch language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToContent": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "Yogyakarta, Indonesia",
+    "headline": "A quiet place to return to",
+    "subline": "A warm stay shaped by nature, thoughtful details, and Javanese culture.",
+    "explore": "Explore Rooms",
+    "whatsapp": "Book via WhatsApp"
+  },
+  "why": {
+    "title": "Stay at a different pace",
+    "text": "Svarga is made for slower mornings while keeping the city within easy reach.",
+    "rooms": "Thoughtful rooms",
+    "roomsText": "Simple details for deeply restful nights.",
+    "welcome": "Personal welcome",
+    "welcomeText": "Local recommendations and care without fuss.",
+    "pendopo": "Pendopo & Tropical Garden",
+    "pendopoText": "Svarga is made for slower mornings while keeping the city within easy reach.",
+    "location": "Near Malioboro & Temples",
+    "locationText": "15 minutes to Malioboro, 20 minutes to Prambanan Temple."
+  },
+  "rooms": {
+    "title": "Rooms for resting well",
+    "subtitle": "Three room types, one thoughtful standard of comfort.",
+    "perNight": "per night",
+    "viewDetail": "View details",
+    "pageTitle": "Choose a room for your pace",
+    "pageSubtitle": "Every room is designed to provide an unforgettable stay"
+  },
+  "gallery": {
+    "title": "A few corners of Svarga",
+    "viewAll": "View full gallery",
+    "pageTitle": "Spaces you can feel",
+    "pageSubtitle": "Notice the small details that shape a Svarga stay.",
+    "openPhoto": "Open photo",
+    "close": "Close gallery",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "galleryAlt": "Photo gallery",
+    "filterAll": "All Photos",
+    "filterRooms": "Rooms",
+    "filterCommon": "Common Areas",
+    "filterFood": "Culinary",
+    "filterAround": "Yogyakarta Sights",
+    "view": "Click to View",
+    "askWhatsapp": "Ask on WhatsApp",
+    "ctaEyebrow": "Ready to stay?",
+    "ctaTitle": "Settle into warm Javanese nights",
+    "ctaSubtitle": "Rooms fill quickly on weekends. Send us a message and get availability in minutes, or book your dates directly.",
+    "ctaWhatsapp": "Chat on WhatsApp",
+    "ctaBook": "Check Availability"
+  },
+  "story": {
+    "title": "Close to what makes Yogyakarta matter",
+    "text": "From quiet mornings to city lights, Svarga gives you space to enjoy both.",
+    "explore": "See location"
+  },
+  "location": {
+    "title": "Yogyakarta, more personally",
+    "text": "Malioboro 15 minutes. Prambanan 20 minutes. Merapi 45 minutes."
+  },
+  "journal": {
+    "title": "From our travel journal",
+    "read": "Read more"
+  },
+  "cta": {
+    "title": "Plan your time at Svarga",
+    "book": "Book via WhatsApp"
+  },
+  "footer": {
+    "tagline": "A small sanctuary in the heart of Yogyakarta",
+    "explore": "Explore",
+    "contact": "Contact",
+    "demo": "Demo website. Photos and content on this page are samples and need to be replaced with owner-approved assets.",
+    "copyright": "Svarga Sanctuary. All rights reserved."
+  },
+  "booking": {
+    "pageTitle": "Book your stay",
+    "pageSubtitle": "Fill in the form below and our team will respond within 24 hours.",
+    "fullName": "Full name",
+    "phone": "WhatsApp number",
+    "roomType": "Room type",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "adults": "Adults",
+    "children": "Children",
+    "notes": "Additional notes",
+    "submit": "Confirm & Send via WhatsApp",
+    "success": "Booking request sent!",
+    "successText": "We have opened WhatsApp with your booking details. Our team will confirm availability shortly.",
+    "helpTitle": "Need help?",
+    "helpText": "For immediate assistance, contact us directly via WhatsApp. Our team is available from 08:00 to 22:00 WIB.",
+    "chat": "Chat on WhatsApp",
+    "errName": "Full name is required",
+    "errPhone": "Invalid phone format",
+    "errCheckIn": "Please select check-in date",
+    "errCheckOut": "Check-out must be after check-in",
+    "errPast": "Check-in cannot be in the past",
+    "night": "night",
+    "guests": "Guests"
+  },
+  "contact": {
+    "pageTitle": "Let us start a conversation",
+    "pageSubtitle": "For room questions, directions, or local recommendations, our team is here to help.",
+    "title": "Contact us",
+    "whatsapp": "WhatsApp",
+    "address": "Yogyakarta, Indonesia"
+  },
+  "about": {
+    "pageTitle": "A small sanctuary, made with intention",
+    "pageSubtitle": "Svarga means heaven in Sanskrit. To us, it is not a distant place. It is a feeling of calm shaped by space, light, and a sincere welcome.",
+    "valuesTitle": "Four values we keep",
+    "values": [
+      "Authenticity",
+      "Warmth",
+      "Stillness",
+      "Sustainability"
+    ]
+  },
+  "roomDetail": {
+    "back": "Back to rooms",
+    "details": "Room details",
+    "size": "Size",
+    "floor": "Floor",
+    "capacity": "Capacity",
+    "adults": "adults",
+    "children": "children",
+    "amenities": "Amenities",
+    "pricePerNight": "Price per night",
+    "weekday": "Weekday",
+    "weekend": "Weekend",
+    "checkAvailability": "Check availability via WhatsApp"
+  },
+  "blog": {
+    "pageTitle": "Notes for your journey",
+    "back": "Back to journal",
+    "minRead": "min read",
+    "comingSoon": "Full content coming soon.",
+    "pageSubtitle": "Travel guides, cultural insights, and local tips for exploring Yogyakarta — from Malioboro to Borobudur.",
+    "loadMore": "Load More Articles",
+    "readMore": "Read More"
+  }
+}

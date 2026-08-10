@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "rooms": "Kamar",
+    "gallery": "Galeri",
+    "blog": "Blog",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "bookNow": "Pesan Sekarang",
+    "switchLanguage": "Ganti bahasa",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "skipToContent": "Lewati ke konten utama"
+  },
+  "hero": {
+    "eyebrow": "Yogyakarta, Indonesia",
+    "headline": "Tempat tenang untuk pulang sejenak",
+    "subline": "Ruang menginap yang hangat, dekat dengan alam dan budaya Jawa.",
+    "explore": "Jelajahi Kamar",
+    "whatsapp": "Pesan via WhatsApp"
+  },
+  "why": {
+    "title": "Menginap dengan ritme yang berbeda",
+    "text": "Svarga dirancang untuk membuat hari terasa lebih luas, tanpa meninggalkan akses menuju kota.",
+    "rooms": "Kamar yang dipikirkan",
+    "roomsText": "Detail sederhana untuk tidur yang lebih nyenyak.",
+    "welcome": "Keramahan personal",
+    "welcomeText": "Rekomendasi lokal dan perhatian tanpa berlebihan.",
+    "pendopo": "Pendopo & Taman Tropis",
+    "pendopoText": "Svarga dirancang untuk pagi yang lebih tenang sambil tetap dekat dengan kota.",
+    "location": "Dekat Malioboro & Candi",
+    "locationText": "15 menit ke Malioboro, 20 menit ke Candi Prambanan."
+  },
+  "rooms": {
+    "title": "Ruang untuk beristirahat",
+    "subtitle": "Tiga tipe kamar, satu standar kenyamanan yang personal.",
+    "perNight": "per malam",
+    "viewDetail": "Lihat detail",
+    "pageTitle": "Pilih ruang untuk ritme Anda",
+    "pageSubtitle": "Setiap kamar dirancang untuk memberikan pengalaman menginap yang tak terlupakan"
+  },
+  "gallery": {
+    "title": "Beberapa sudut Svarga",
+    "viewAll": "Lihat semua galeri",
+    "pageTitle": "Ruang yang bisa dirasakan",
+    "pageSubtitle": "Lihat detail kecil yang membentuk pengalaman Svarga.",
+    "openPhoto": "Buka foto",
+    "close": "Tutup galeri",
+    "previous": "Foto sebelumnya",
+    "next": "Foto berikutnya",
+    "galleryAlt": "Galeri foto",
+    "filterAll": "Semua Foto",
+    "filterRooms": "Kamar",
+    "filterCommon": "Area Umum",
+    "filterFood": "Kuliner",
+    "filterAround": "Wisata Jogja",
+    "view": "Klik untuk Memperbesar",
+    "askWhatsapp": "Tanya via WhatsApp",
+    "ctaEyebrow": "Siap menginap?",
+    "ctaTitle": "Nikmati malam-malam hangat Jawa",
+    "ctaSubtitle": "Kamar cepat penuh di akhir pekan. Kirim pesan dan dapatkan ketersediaan dalam hitungan menit, atau langsung booking tanggal Anda.",
+    "ctaWhatsapp": "Chat WhatsApp",
+    "ctaBook": "Cek Ketersediaan"
+  },
+  "story": {
+    "title": "Dekat dengan yang membuat Yogyakarta berarti",
+    "text": "Dari pagi yang hening hingga lampu kota yang menyala, Svarga memberi Anda tempat untuk menikmati keduanya.",
+    "explore": "Lihat lokasi"
+  },
+  "location": {
+    "title": "Yogyakarta, dengan cara yang lebih personal",
+    "text": "Malioboro 15 menit. Prambanan 20 menit. Merapi 45 menit."
+  },
+  "journal": {
+    "title": "Dari jurnal perjalanan kami",
+    "read": "Baca selengkapnya"
+  },
+  "cta": {
+    "title": "Rencanakan waktu Anda di Svarga",
+    "book": "Pesan via WhatsApp"
+  },
+  "footer": {
+    "tagline": "Surga kecil di tengah Yogyakarta",
+    "explore": "Jelajahi",
+    "contact": "Kontak",
+    "demo": "Demo website. Foto dan konten di halaman ini adalah sample dan perlu diganti dengan aset yang disetujui pemilik.",
+    "copyright": "Svarga Sanctuary. Semua hak dilindungi."
+  },
+  "booking": {
+    "pageTitle": "Pesan kamar Anda",
+    "pageSubtitle": "Isi formulir di bawah ini dan tim kami akan membalas dalam 1x24 jam.",
+    "fullName": "Nama lengkap",
+    "phone": "Nomor WhatsApp",
+    "roomType": "Tipe kamar",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "adults": "Dewasa",
+    "children": "Anak-anak",
+    "notes": "Catatan tambahan",
+    "submit": "Konfirmasi & Kirim via WhatsApp",
+    "success": "Permintaan terkirim!",
+    "successText": "Kami telah membuka WhatsApp dengan detail pemesanan Anda. Tim kami akan mengonfirmasi ketersediaan segera.",
+    "helpTitle": "Butuh bantuan?",
+    "helpText": "Untuk bantuan langsung, hubungi kami via WhatsApp. Tim kami tersedia dari pukul 08:00 hingga 22:00 WIB.",
+    "chat": "Chat di WhatsApp",
+    "errName": "Nama wajib diisi",
+    "errPhone": "Format nomor tidak valid",
+    "errCheckIn": "Pilih tanggal check-in",
+    "errCheckOut": "Check-out harus setelah check-in",
+    "errPast": "Check-in tidak boleh di masa lalu",
+    "night": "malam",
+    "guests": "Tamu"
+  },
+  "contact": {
+    "pageTitle": "Mari mulai percakapan",
+    "pageSubtitle": "Untuk pertanyaan kamar, arah, atau rekomendasi lokal, tim kami siap membantu.",
+    "title": "Hubungi kami",
+    "whatsapp": "WhatsApp",
+    "address": "Yogyakarta, Indonesia"
+  },
+  "about": {
+    "pageTitle": "Surga kecil yang dibuat dengan niat",
+    "pageSubtitle": "Svarga berarti surga dalam bahasa Sanskerta. Bagi kami, ia bukan tempat yang jauh. Ia adalah rasa tenang yang hadir melalui ruang, cahaya, dan sambutan yang tulus.",
+    "valuesTitle": "Empat nilai yang kami jaga",
+    "values": [
+      "Keautentikan",
+      "Kehangatan",
+      "Ketenangan",
+      "Keberlanjutan"
+    ]
+  },
+  "roomDetail": {
+    "back": "Kembali ke kamar",
+    "details": "Detail kamar",
+    "size": "Luas",
+    "floor": "Lantai",
+    "capacity": "Kapasitas",
+    "adults": "dewasa",
+    "children": "anak",
+    "amenities": "Fasilitas",
+    "pricePerNight": "Harga per malam",
+    "weekday": "Weekday",
+    "weekend": "Weekend",
+    "checkAvailability": "Cek ketersediaan via WhatsApp"
+  },
+  "blog": {
+    "pageTitle": "Catatan untuk perjalanan Anda",
+    "back": "Kembali ke jurnal",
+    "minRead": "menit baca",
+    "comingSoon": "Konten lengkap akan segera tersedia.",
+    "pageSubtitle": "Panduan wisata, wawasan budaya, dan tips lokal untuk menjelajahi Yogyakarta — dari Malioboro hingga Borobudur.",
+    "loadMore": "Muat Lebih Banyak Artikel",
+    "readMore": "Baca Selengkapnya"
+  }
+}
